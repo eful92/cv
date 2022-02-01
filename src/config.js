@@ -1,12 +1,12 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
-        sortBy: 'stars', // stars | updated
+        username: 'eful92', // Your GitHub org/user name. (Required)
+        sortBy: 'master', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
-            projects: ['laravel-ecommerce'] // These projects will not be displayed. example: ['my-project1', 'my-project2']
+            projects: ['Skill'] // These projects will not be displayed. example: ['syflysf', '']
         }
     },
     social: {
